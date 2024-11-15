@@ -12,8 +12,8 @@ If you wish to commit, please follow the next steps:
     - Change location: files you changed.
     - Changes done: Describe your changes.
     - Screenshot: Add if applicable a screenshot of your code working.
-10. Submit your pull request and wait for approval.
+10. Submit your pull request, ping one of the maintainers (very likely the officers) in the `#pull-requests` channel in discord, and wait for approval.
 11. Once approved, go into the pull requests tab, and on your request, click on Merge pull request.
-12. You're done
+12. You're done.
 
 [Go to index](../README.md)
