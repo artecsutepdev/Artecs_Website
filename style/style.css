@@ -75,6 +75,18 @@ main article h2 {
   font-size: 1.6em;
   margin: 0;
 }
+#constitution {
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(darkred, darkred, red);
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+#constitution:hover {
+  background: linear-gradient(darkblue, blue, blue);
+}
+
 footer {
   display: flex;
   flex-direction: column;
