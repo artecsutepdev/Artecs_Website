@@ -3,11 +3,19 @@
         "position":"President",
         "name": "Isaac Gabriel Alonso",
         "email": "sample@email.com",
+        "github": "githublink",
         "picture":"imagelink"
     },{
         "position":"Vice President",
-        "name": "Isaac Gabriel Alonso",
-        "email": "",
+        "name": "Priscilla Madrid",
+        "github":"githublink",
+        "email": "googlyeyes@google.com",
+        "picture":"imagelink"
+    },{
+        "position":"El Rafa",
+        "name": "El Rafa XD",
+        "email": "coolaid@gmail.com",
+        "github":"githublink",
         "picture":"imagelink"
     }
 ]
