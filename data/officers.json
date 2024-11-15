@@ -1,0 +1,13 @@
+[
+    {
+        "position":"President",
+        "name": "Isaac Gabriel Alonso",
+        "email": "sample@email.com",
+        "picture":"imagelink"
+    },{
+        "position":"Vice President",
+        "name": "Isaac Gabriel Alonso",
+        "email": "",
+        "picture":"imagelink"
+    }
+]
