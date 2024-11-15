@@ -1,0 +1,15 @@
+[
+    {
+        "projectname": "Project 1",
+        "projectdate": "2021-01-01",
+        "projectimages": ["image1.jpg"],
+        "projectdescription": "Description 1",
+        "projectupdates": [
+            {
+                "update": "Update 1",
+                "updatedate": "2021-01-01",
+                "udatedescription": "Update Description 1"
+            }
+        ]
+    }
+]
