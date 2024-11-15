@@ -15,15 +15,16 @@ header {
   align-items: center;
   justify-content: center;
 }
-header h1 {
+header h1 a {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 3em;
+  font-size: 2em;
+  text-decoration: none;
   color: rgb(65, 67, 75);
 }
-header h1 img {
+header h1 a img {
   width: 100px;
   height: 100px;
   background: none;
@@ -53,9 +54,26 @@ header nav a:active {
   background: rgb(150, 103, 146);
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+footer hr {
+  width: 390px;
+}
+
 @media screen and (max-width: 768px) {
   header h1 {
-    font-size: 2em;
+    font-size: 1.5em;
   }
   header .hamburger-container {
     display: flex;
@@ -95,6 +113,7 @@ header nav a:active {
   header nav {
     max-height: 0;
     opacity: 0;
+    color: none;
     overflow: hidden;
     transition: max-height 0.5s ease, opacity 0.5s ease;
   }
