@@ -11,7 +11,7 @@
     --first-color-light: hsl(0, 4%, 15%);
     --title-color: hsl(0, 1%, 13%);
     --text-color: hsl(240, 4%, 21%);
-    --white-color: hsla(25, 36%, 51%, 0);
+    --white-color: hsla(25, 36%, 51%, 0.75);
     --black-color: hsl(228, 6%, 4%);
     --body-color: hsl(39, 59%, 78%);
     --containter-color: hsl(240, 3%, 79%);
@@ -375,7 +375,7 @@ img {
 
 .project__img {
     position: absolute;
-    top: -4.5rem;
+    top: -1.25rem;
     left: 0;
     right: 0;
     width: 130px;
@@ -410,7 +410,7 @@ img {
 }
 
 .project__card:hover .project__img {
-    transform: translateY(-.5rem);
+    transform: translateY(-.75rem);
 }
 
 /*=============== CARE ===============*/
