@@ -6,6 +6,8 @@
 </h1>
 
 Astro Cactus powers the ARTECS website, providing a clean and efficient foundation built with Astro. Designed for creativity and performance, our site serves as a hub for showcasing projects, sharing insights, and exploring the intersection of art and technology.
+## Website
+[https://www.artecs.org/](https://www.artecs.org/)
 
 ## Key Features
 
@@ -27,11 +29,7 @@ Astro Cactus powers the ARTECS website, providing a clean and efficient foundati
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) svg icon component
 - [Expressive Code](https://expressive-code.com/) code blocks and syntax highlighter
 
-## Website 💻
-
-[https://www.artecs.org/](https://www.artecs.org/)
-
-### Post Frontmatter
+## Post Frontmatter
 
 | Property (\* required) | Description                                                                                                                                                                                                                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,7 +42,7 @@ Astro Cactus powers the ARTECS website, providing a clean and efficient foundati
 | ogImage                | This is an optional property. An OG Image will be generated automatically for every post where this property **isn't** provided. If you would like to create your own for a specific post, include this property and a link to your image, the theme will then skip automatically generating one.            |
 | draft                  | This is an optional property as it is set to false by default in the schema. By adding true, the post will be filtered out of the production build in a number of places, inc. getAllPosts() calls, og-images, rss feeds, and generated page[s]. You can view an example in `src/content/post/draft-post.md` |
 
-### Note Frontmatter
+## Note Frontmatter
 
 | Property (\* required) | Description                                        |
 | ---------------------- | -------------------------------------------------- |
@@ -52,7 +50,7 @@ Astro Cactus powers the ARTECS website, providing a clean and efficient foundati
 | description            | to be used for the head meta description property. |
 | publishDate \*         | ISO 8601 format with offsets allowed.              |
 
-### Frontmatter snippets
+## Frontmatter snippets
 
 Astro Cactus includes a helpful VSCode snippet which creates a frontmatter 'stub' for posts and note's, found here -> `.vscode/post.code-snippets`. Start typing the word `frontmatter` on your newly created .md(x) file to trigger it. Visual Studio Code snippets appear in IntelliSense via (⌃Space) on mac, (Ctrl+Space) on windows.
 
