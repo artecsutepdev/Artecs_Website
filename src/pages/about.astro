@@ -1,53 +1,31 @@
+---
 import PageLayout from "@/layouts/Base.astro";
 
 const meta = {
-	description: "Learn more about ARTECS, a student organization at UTEP that blends art and technology.",
-	title: "About ARTECS",
+	description: "Learn more about ARTECS",
+	title: "About",
 };
-
-const members = [
-	{ name: "John Doe", role: "President" },
-	{ name: "Jane Smith", role: "Vice President" },
-	{ name: "Alice Johnson", role: "Treasurer" },
-	{ name: "Bob Martinez", role: "Secretary" },
-	{ name: "Emily Carter", role: "Event Coordinator" },
-];
-
-const contactInfo = {
-	email: "artecs.utep@gmail.com",
-	socials: {
-		instagram: "https://instagram.com/artecs_utep",
-		twitter: "https://twitter.com/artecs_utep",
-		facebook: "https://facebook.com/artecsutep",
-	},
-};
-
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">About ARTECS</h1>
+	<h1 class="title mb-6">About</h1>
 	<div class="prose prose-sm prose-cactus max-w-none">
-		<h2 class="mt-6">Mission</h2>
-		<p>
-			Exploring and advancing the integration of art and computer science, blending creativity with technology to unlock new possibilities.
-		</p>
-		<h2 class="mt-6">Vision</h2>
-		<p>
-			Foster innovation by empowering and inspiring the Hispanic community to imagine, create, and lead in the world of creativity and tech.
-		</p>
-		<h2 class="mt-6">Meet Our Team</h2>
+		<p>Our mission and vision:</p>
 		<ul class="list-inside list-disc" role="list">
-			{members.map((member) => (
-				<li key={member.name}><strong>{member.name}</strong> - {member.role}</li>
-			))}
+			<li><strong>Mission:</strong> Exploring and advancing the integration of art and computer science, blending creativity with technology to unlock new possibilities.</li>
+			<li><strong>Vision:</strong> Foster innovation by empowering and inspiring the Hispanic community to imagine, create, and lead in the world of creativity and tech.</li>
 		</ul>
-		<h2 class="mt-6">Contact Us</h2>
-		<p>Email: <a href={`mailto:${contactInfo.email}`} class="cactus-link">{contactInfo.email}</a></p>
-		<p>Follow us on social media:</p>
-		<ul class="list-inside list-disc">
-			<li><a href={contactInfo.socials.instagram} class="cactus-link" target="_blank">Instagram</a></li>
-			<li><a href={contactInfo.socials.twitter} class="cactus-link" target="_blank">Twitter</a></li>
-			<li><a href={contactInfo.socials.facebook} class="cactus-link" target="_blank">Facebook</a></li>
+		<p><strong>Meet Our Officers:</strong></p>
+		<ul class="list-inside list-disc" role="list">
+			<li>President: [Name]</li>
+			<li>Vice President: [Name]</li>
+			<li>Secretary: [Name]</li>
+			<li>Treasurer: [Name]</li>
 		</ul>
+		<p>
+			For any inquiries, feel free to reach out to us at: 
+			<a class="cactus-link inline-block" href="mailto:artecs@utep.edu">artecs@utep.edu</a>
+		</p>
+		<p>We look forward to creating and innovating together!</p>
 	</div>
 </PageLayout>
