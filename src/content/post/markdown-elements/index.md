@@ -7,7 +7,7 @@ tags: ["test", "markdown"]
 coverImage:
   src: "./logo.png"
   alt: "Astro build wallpaper"
-ogImage: "./logo.png"
+ogImage: "/logo.png"
 ---
 
 ## This is a H2 Heading
