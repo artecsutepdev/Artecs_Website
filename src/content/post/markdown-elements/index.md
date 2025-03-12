@@ -5,9 +5,9 @@ publishDate: "2 Jan 1999"
 updatedDate: "7 Jan 1999"
 tags: ["markdown"]
 coverImage:
-  src: "/logo.png"
+  src: "./logo.png"
   alt: "Cactus"
-ogImage: "/logo.png"
+ogImage: "./logo.png"
 ---
 
 ## This is a H2 Heading
