@@ -40,7 +40,7 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "Blog",
 	},
 	{
-		path: "/Updates/",
+		path: "/notes/",
 		title: "Updates",
 	},
 ];
