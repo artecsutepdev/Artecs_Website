@@ -5,9 +5,9 @@ publishDate: "22 Feb 2023"
 updatedDate: 22 Jan 2024
 tags: ["test", "markdown"]
 coverImage:
-  src: "./logo.png"
-  alt: "Astro build wallpaper"
-ogImage: "./logo.png"
+  src: "/logo.png"
+  alt: "Cactus"
+ogImage: "/logo.png"
 ---
 
 ## This is a H2 Heading
