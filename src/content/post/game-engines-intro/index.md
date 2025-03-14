@@ -78,7 +78,7 @@ In the next sections, we’ll discuss:
 
 Read the previous section:
 
-[**Introduction to Game Development**](https://artecs.org/)
+[**Introduction to Game Development**](https://www.artecs.org/posts/game-dev-intro/)
 
 :::important
 Stay tuned and keep experimenting!
