@@ -30,8 +30,11 @@ Game engines streamline the development process by providing a structured enviro
 ### Benefits of Using a Game Engine
 
 ✅ **Cross-platform support** –> Build games for PC, consoles, and mobile devices.
+
 ✅ **Optimized performance** –> Engines handle rendering and physics efficiently.
+
 ✅ **User-friendly editors** –> Visual tools help with game design.
+
 ✅ **Active communities** –> Access documentation, tutorials, and forums for help.
 
 ## What Is Godot?
