@@ -107,7 +107,7 @@ With each project, your **understanding** will grow, and so will your ability to
 
 In the next sections, we’ll discuss:
 
-👉 [**What Are Game Engines?**](https://artecs.org/)
+👉 [**What Are Game Engines?**](https://www.artecs.org/posts/game-engines-intro/)
 
 :::important
 Stay motivated, experiment often, and enjoy the process of bringing your game ideas to life!
