@@ -56,12 +56,14 @@ Unlike other engines, Godot does not charge royalties or require subscriptions. 
 
 To see what’s possible with Godot, check out the **Godot 2024 Showreel**, showcasing some of the best games made with this engine:
 
-<iframe width="560" height="315" 
+<iframe 
     src="https://www.youtube.com/embed/n1Lon_Q2T18?start=59" 
     title="Godot 2024 Showreel" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
+    allowfullscreen 
+    width="100%" 
+    height="315">
 </iframe>
 
 ## Final Thoughts
