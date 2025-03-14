@@ -23,7 +23,7 @@ Using a game engine allows developers to focus on designing gameplay rather than
 
 ![1](./1.png)
 
-:::tip Why Use a Game Engine?
+:::note[Why Use a Game Engine?]
 Game engines streamline the development process by providing a structured environment. Without one, developers would have to manually code every aspect of a game, from physics to rendering—a time-consuming task. Instead, engines like **Godot, Unity, and Unreal Engine** offer built-in tools to speed up development.
 :::
 
@@ -51,7 +51,7 @@ Game engines streamline the development process by providing a structured enviro
 
 ![2](./2.png)
 
-:::caution Why Choose Godot?
+:::important
 Unlike other engines, Godot does not charge royalties or require subscriptions. You own everything you create without hidden costs.
 :::
 
