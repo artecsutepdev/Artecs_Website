@@ -41,7 +41,7 @@ Game engines streamline the development process by providing a structured enviro
 
 [**Godot**](https://godotengine.org/) is an **open-source** game engine known for its flexibility and ease of use. Unlike proprietary engines, Godot is completely free with no licensing fees, making it an excellent choice for indie developers and hobbyists.
 
-### 🏆 Key Features of Godot
+### Key Features of Godot 🏆
 
 - **Node-based architecture** –> Organize game elements intuitively.
 - **GDScript** –> A simple yet powerful scripting language inspired by Python.
