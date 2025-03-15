@@ -1,9 +1,9 @@
 ---
-title: Hello, Welcome
-description: An introduction to using the note feature in Astro Cactus
-publishDate: "1999-01-14T11:23:00Z"
+title: Welcome to Our Website!
+description: Stay updated with weekly announcements and exciting events
+publishDate: "2025-02-06T15:00:00-07:00"
 ---
 
-Hi, Hello. This is an example note.
+Hi, Hello. Welcome to our website!
 
-They're for shorter, concise "post's" that you'd like to share, they generally don't include headings, but hey, that's entirely up to you.
+This is where we’ll be posting announcements for our weekly meetings and sharing exciting updates. Stay tuned for the latest news and happenings!
