@@ -46,11 +46,9 @@ While we’ll be expanding with **our own guides** (which we’ll call **"Recipe
   position += speed * delta
   ```
 
-✅ **With** Delta Time:
-![1](./1.gif)
+✅ **With** Delta Time: ![1](./1.gif)
 
-❌ **Without** Delta Time:
-![2](./2.gif)
+❌ **Without** Delta Time: ![2](./2.gif)
 
 ### 🧩 Essential Nodes
 - **CharacterBody2D** –> Player or NPC with physics-based movement.
