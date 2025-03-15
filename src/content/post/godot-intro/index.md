@@ -23,7 +23,7 @@ While we’ll be expanding with **our own guides** (which we’ll call **"Recipe
 
 <iframe 
     src="https://www.youtube.com/embed/LOhfqjmasi0" 
-    title="Godot 2024 Showreel" 
+    title="How to make a Video Game - Godot Beginner Tutorial" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen 
