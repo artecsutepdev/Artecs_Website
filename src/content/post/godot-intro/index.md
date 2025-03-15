@@ -21,12 +21,14 @@ While we’ll be expanding with **our own guides** (which we’ll call **"Recipe
 
 ## 🎥 Video Tutorial: _How to make a Video Game - Godot Beginner Tutorial_ by _Brackeys_
 
-<iframe width="100%" height="315" 
-    src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=LOhfqjmasi0" 
-    title="How to Make a Video Game - Godot Beginner Tutorial" 
+<iframe 
+    src="https://www.youtube.com/embed/LOhfqjmasi0" 
+    title="Godot 2024 Showreel" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
+    allowfullscreen 
+    width="100%" 
+    height="315">
 </iframe>
 
 ---
