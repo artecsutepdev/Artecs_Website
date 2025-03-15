@@ -19,8 +19,7 @@ While we’ll be expanding with **our own guides** (which we’ll call **"Recipe
 
 ## Video Tutorial 🎥
 
-### _How to make a Video Game - Godot Beginner Tutorial_ by _Brackeys_
-
+**How to make a Video Game - Godot Beginner Tutorial by Brackeys**
 <iframe 
     src="https://www.youtube.com/embed/LOhfqjmasi0" 
     title="How to make a Video Game - Godot Beginner Tutorial" 
