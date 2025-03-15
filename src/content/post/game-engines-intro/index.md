@@ -55,7 +55,7 @@ Game engines streamline the development process by providing a structured enviro
 Unlike other engines, Godot does not charge royalties or require subscriptions. You own everything you create without hidden costs.
 :::
 
-## 🎥 Godot in Action
+## Godot in Action 🎥
 
 To see what’s possible with Godot, check out the **Godot 2024 Showreel**, showcasing some of the best games made with this engine:
 
