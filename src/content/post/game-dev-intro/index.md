@@ -1,5 +1,5 @@
 ---
-title: "Project-G [0]: Introduction to Game Development"
+title: "Project G[0]: Introduction to Game Development"
 description: "Overview of game development, core concepts, and why it's an exciting field."
 publishDate: "6 Feb 2025"
 tags: ["project-g", "gamedev"]
@@ -40,7 +40,7 @@ velocity.y -= 300 # Moves the character up
 This line tells the computer to **decrease the character’s vertical position**, simulating an **upward motion**. The number **300** represents how much force is applied. Understanding how **numbers** and **functions** interact in code is essential for game development.
 
 :::important
-After reading, check out [this post](https://artecs.org/) to learn more about what game engines are and why they’re important!
+After reading, check out the **What Are Game Engines?** post to learn more about what game engines are and why they’re important!
 :::
 
 ## The Structure of Code in Game Development
