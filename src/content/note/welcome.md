@@ -1,7 +1,7 @@
 ---
 title: Welcome to Our Website!
 description: Stay updated with weekly announcements and exciting events
-publishDate: "2025-02-06T15:00:00-07:00"
+publishDate: "2025-02-06T11:15:00Z"
 ---
 
 Hi, Hello. Welcome to our website!
