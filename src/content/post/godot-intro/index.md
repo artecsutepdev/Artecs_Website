@@ -14,7 +14,7 @@ ogImage: "./logo.png"
 Starting game development can be overwhelming, but thanks to great resources like **Brackeys' "How to Make a Video Game - Godot Beginner Tutorial"**, you don’t have to start from scratch. Instead of creating our own tutorial, we believe this video is an **excellent introduction** to Godot. It covers the **fundamentals of game creation**, and it’s the perfect **first step** before diving into more complex topics.
 
 :::note
-While we’ll be expanding with **our own guides** (which we’ll call **"Recipes"**), for now, this video provides **everything you need** to get started. Below the video, you’ll find a **glossary of key concepts**, so you can easily reference what you learn.
+We will be adding our **our own guides**, called **"Recipes",** soon. In the meantime, this video provides **everything you need** to get started. Below the video, you will find a **glossary of key concepts** for easy reference.
 :::
 
 ## Video Tutorial 🎥
