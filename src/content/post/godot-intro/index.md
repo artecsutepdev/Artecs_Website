@@ -53,7 +53,7 @@ We will be adding our **our own guides**, called **"Recipes",** soon. In the mea
 
 ### Essential Nodes
 - **CharacterBody2D** –> Player or NPC with physics-based movement.
-- **StaticBody2D** –> Non-moving environment objects (ground, walls).
+- **StaticBody2D** –> Non-moving objects (ground, walls).
 - **Area2D** –> Detects overlapping objects, useful for pickups or kill zones.
 - **CollisionShape2D** –> Defines physical collision boundaries.
 - **RayCast2D** –> Detects collisions in a specific direction.
@@ -61,7 +61,7 @@ We will be adding our **our own guides**, called **"Recipes",** soon. In the mea
 ### Graphics & Animation
 - **Sprite2D** –> Displays static images.
 - **AnimatedSprite2D** –> Handles frame-based animations.
-- **AnimationPlayer** –> Animates any property over time (position, visibility, audio).
+- **AnimationPlayer** –> Animates any property over time (position, scale, visibility).
 
 ### Scripting (GDScript)
 - **Built-in Functions:**
@@ -93,7 +93,6 @@ We will be adding our **our own guides**, called **"Recipes",** soon. In the mea
 
 ### Audio
 - **AudioStreamPlayer2D** –> Plays audio in 2D space.
-- **Audio Bus** –> Manages grouped audio (music, effects).
 
 ## What’s Next?
 
