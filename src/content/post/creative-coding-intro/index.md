@@ -2,7 +2,7 @@
 title: "Creative Coding [0]: Introduction to p5.js"
 description: "A beginner-friendly introduction to creative coding, covering basic programming concepts and how to start making art with p5.js."
 publishDate: "13 Feb 2025"
-tags: ["creative-coding", "p5.js", "beginner"]
+tags: ["creative-coding", "p5.js"]
 coverImage:
   src: "./logo.png"
   alt: "p5.js Logo"
@@ -116,6 +116,15 @@ function draw() {
 :::caution
 What happens when `circleX` gets too big? Try printing `circleX` in the console!
 :::
+
+You can print values to the console using **`console.log()`**.
+For example, in sketch.js, you can log the circleX variable inside the draw() function like this:
+
+```javascript title="sketch.js"
+
+function draw() {  
+  console.log(circleX)
+}
 
 ## Making Interactive Art: Using the Mouse
 
