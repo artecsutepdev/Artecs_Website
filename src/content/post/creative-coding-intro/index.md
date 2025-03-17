@@ -4,9 +4,9 @@ description: "A beginner-friendly introduction to creative coding, covering basi
 publishDate: "13 Feb 2025"
 tags: ["creative-coding", "p5.js", "beginner"]
 coverImage:
-  src: "./p5-logo.png"
+  src: "./logo.png"
   alt: "p5.js Logo"
-ogImage: "./p5-logo.png"
+ogImage: "./logo.png"
 ---
 
 ## What Is Creative Coding?
