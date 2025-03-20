@@ -98,7 +98,7 @@ This marks the beginning of **UI (User Interface) design**, where we bring **vis
 ### **Color & Typography**  
 **Fonts** define the **tone** of your design. Want something formal? Elegant? Playful? Try out fonts from [**Google Fonts**](https://fonts.google.com/) and use tools like [**Type Scale**](https://typescale.com/) to set readable text sizes.
 
-![typo](./typo.jpeg)  
+![typo](./typo.png)  
 
 **Color** schemes should align with **brand identity** or project goals. Dark mode? Minimalist? Vibrant? Use **contrast and accessibility checks** to make sure users can read text clearly. Use tools like [**colorhunt**](https://colorhunt.co/) find cool color palletes!
 
