@@ -94,7 +94,7 @@ This marks the beginning of **UI (User Interface) design**, where we bring **vis
 
 ![typo](./typo.png)  
 
-**Color** schemes should align with **brand identity** or project goals. Dark mode? Minimalist? Vibrant? Use **contrast and accessibility checks** to make sure users can read text clearly. Use tools like [**colorhunt**](https://colorhunt.co/) find cool color palletes!
+**Color** schemes should align with **brand identity** or project goals. Dark mode? Minimalist? Vibrant? Use **contrast and accessibility checks** to make sure users can read text clearly. Use tools like [**colorhunt**](https://colorhunt.co/) to find cool color palletes!
 
 ### **Primary, Secondary & Accent Colors**  
 - **Primary Color** –> The **main color** of the design, often used for branding, key UI elements, and major CTAs (Call-To-Action buttons).  
@@ -112,10 +112,6 @@ Contrast plays a critical role in **readability** and **accessibility**.
 ✅ **60-30-10 Rule**:  
 
 ![Colors Percetange](./colorspercetange.jpeg)
-
-:::note[Visualize Your Colors & Fonts On a Real Site]
-A sidebar for categories is easier to access than a dropdown menu buried in a hidden UI.
-:::
 
 ### **Activity: Realtime Colors 🖌️**  
 
@@ -141,9 +137,7 @@ Now that you have your **building blocks**, it's time to design! Keep these **si
 ### **Prototyping & Testing**  
 UI design isn’t just assembling elements—it’s about **testing, iterating, and refining** the design. Prototyping in **Figma or Adobe XD** helps visualize user interactions before development.  
 
-### **Adding Visuals & Illustrations 🎭**  
-
-If your design needs **graphics**, you can find **free & paid assets** from various resources, or create your own. Minimalist designs may not need heavy illustrations, but **icons, textures, and subtle animations** can enhance the experience.
+![Click](./clickk.gif)
 
 ### **Activity: Create a Homepage! 🎨**
 
