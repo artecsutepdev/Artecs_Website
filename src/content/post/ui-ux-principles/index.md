@@ -85,12 +85,6 @@ Wireframing is divided into three levels based on detail and complexity:
 🔹 **High-Fidelity Wireframes:** **Closer to the final design**, including **refined UI elements, typography, and accurate spacing**. These wireframes resemble the finished product but lack full interactivity.
 ![wireframe3](./wireframe33.webp)
 
-:::note[Example:]
-A sidebar for categories is easier to access than a dropdown menu buried in a hidden UI.
-:::
-
-![example](./example.avif)  
-
 ## **Step 3: Creating a Design System 🎨**  
 
 This marks the beginning of **UI (User Interface) design**, where we bring **visual consistency** to the project. A **design system** ensures that colors, fonts, buttons, and icons are **uniform** across the product.  
