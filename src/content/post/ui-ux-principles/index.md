@@ -89,7 +89,7 @@ Wireframing is divided into three levels based on detail and complexity:
 A sidebar for categories is easier to access than a dropdown menu buried in a hidden UI.
 :::
 
-![example](./example.png)  
+![example](./example.avif)  
 
 ## **Step 3: Creating a Design System 🎨**  
 
