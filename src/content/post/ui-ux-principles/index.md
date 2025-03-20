@@ -83,7 +83,7 @@ Wireframing is divided into three levels based on detail and complexity:
 ![wireframe2](./wireframe2.jpeg)
 
 🔹 **High-Fidelity Wireframes:** **Closer to the final design**, including **refined UI elements, typography, and accurate spacing**. These wireframes resemble the finished product but lack full interactivity.
-![wireframe3](./wireframe33.jpeg)
+![wireframe3](./wireframe33.webp)
 
 :::note[Example:]
 A sidebar for categories is easier to access than a dropdown menu buried in a hidden UI.
