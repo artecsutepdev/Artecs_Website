@@ -11,7 +11,7 @@ ogImage: "./logo.png"
 
 ## **UI/UX Design: Where to Start?**  
 
-So, you know **Figma**, but how do you go from tools to **designing real products**? UI design tools are easy to learn but hard to master. The key is **knowing what you need to do** to make user-friendly and visually appealing designs.  
+How do you go from tools to **designing real products**? UI design tools are easy to learn but hard to master. The key is **knowing what you need to do** to make user-friendly and visually appealing designs.  
 
 :::note
 This post breaks down the **fundamentals** of UI/UX design: **user flow**, **wireframing**, **design systems**, and **actual UI design**.  
@@ -83,7 +83,7 @@ Wireframing is divided into three levels based on detail and complexity:
 ![wireframe2](./wireframe2.jpeg)
 
 🔹 **High-Fidelity Wireframes:** **Closer to the final design**, including **refined UI elements, typography, and accurate spacing**. These wireframes resemble the finished product but lack full interactivity.
-![wireframe3](./wireframe3.jpeg)
+![wireframe3](./wireframe33.jpeg)
 
 :::note[Example:]
 A sidebar for categories is easier to access than a dropdown menu buried in a hidden UI.
