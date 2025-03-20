@@ -1,8 +1,8 @@
 ---
-title: "Project-G [0]: Introduction to Game Development"
+title: "Godot [0]: Introduction to Game Development"
 description: "Overview of game development, core concepts, and why it's an exciting field."
 publishDate: "6 Feb 2025"
-tags: ["project-g", "gamedev"]
+tags: ["project-g", "gamedev", "godot"]
 coverImage:
   src: "./logo.png"
   alt: "Gamedev Logo"
