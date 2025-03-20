@@ -77,7 +77,7 @@ Game engines empower developers to bring their ideas to life without reinventing
 
 In the next sections, we’ll discuss:
 
-👉 [**Learning Godot - Beginner Tutorial**](https://artecs.org/posts/godot-intro)
+👉 [**Learning Godot - Beginner Tutorial**](https://www.artecs.org/posts/godot-intro/)
 
 Read the previous section:
 
