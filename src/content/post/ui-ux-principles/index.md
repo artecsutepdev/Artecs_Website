@@ -115,8 +115,9 @@ Contrast plays a critical role in **readability** and **accessibility**.
 
 ### **Activity: Realtime Colors 🖌️**  
 
+:::important
 Now that you understand **user flow, wireframing and design systems**, it's time to **put it all into practice**!  
-
+:::
 A great tool to experiment with **color palettes, contrast, and real-time UI updates** is **[Realtime Colors](https://www.realtimecolors.com/)**.  
 
 ☐ **Test different primary, secondary, and accent colors** in a live UI.  
