@@ -112,7 +112,7 @@ Contrast plays a critical role in **readability** and **accessibility**.
 - **High contrast** (e.g., dark text on a light background) improves readability and accessibility.  
 - **Low contrast** can be used for subtle UI elements but should **never compromise legibility**.  
 
-![Contrast & Typography](./tandc.png)
+![Contrast & Typography](./tandc.jpeg)
 
 ### **Applying Color in UI**  
 ✅ **60-30-10 Rule**:  
