@@ -23,7 +23,7 @@ Despite its name, “pixel art” doesn’t always strictly use **literal pixels
 
 If you’re looking for an alternative, [Pixelorama](https://orama-interactive.itch.io/pixelorama) is another great option.
 
-![1](./1.png)
+![1](./1.gif)
 
 ### **Piskel Tools Overview**
 
