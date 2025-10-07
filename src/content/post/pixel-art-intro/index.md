@@ -2,6 +2,7 @@
 title: "Introduction to Pixel Art"
 description: "Learn the basics of pixel art, from using Piskel to creating your first sprite and simple animation."
 publishDate: "27 Mar 2025"
+category: "Creative Programming"
 tags: ["pixel-art"]
 coverImage:
   src: "./logo.png"

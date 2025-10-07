@@ -2,6 +2,7 @@
 title: "UI / UX Principles"
 description: "Learn the fundamentals of UI/UX design, from user flows to wireframes and design systems."
 publishDate: "20 Mar 2025"
+category: "Creative Programming"
 tags: ["ui/ux"]
 coverImage:
   src: "./logo.png"

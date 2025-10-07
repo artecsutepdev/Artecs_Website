@@ -2,6 +2,7 @@
 title: "Godot [2]: Learning Godot - Tutorial"
 description: "A beginner-friendly introduction to using the Godot game engine, following Brackeys' tutorial."
 publishDate: "8 Feb 2025"
+category: "Game Development"
 tags: ["project-g", "gamedev", "godot"]
 coverImage:
   src: "./logo.png"

@@ -2,7 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 import Pagination from "@/components/Paginator.astro";
 import PostPreview from "@/components/blog/PostPreview.astro";
-import { getAllPosts, getUniqueTags, groupPostsByYear } from "@/data/post";
+import { getAllPosts, getUniqueTags, groupPostsByCategory } from "@/data/post";
 import PageLayout from "@/layouts/Base.astro";
 import { collectionDateSort } from "@/utils/date";
 import type { GetStaticPaths, Page } from "astro";
@@ -46,8 +46,15 @@ const paginationProps = {
 	}),
 };
 
-const groupedByYear = groupPostsByYear(page.data);
-const descYearKeys = Object.keys(groupedByYear).sort((a, b) => +b - +a);
+const groupedByCategory = groupPostsByCategory(page.data);
+
+// Custom category order: Game Development first, then Creative Programming, then Electronics
+const categoryOrder = ["Game Development", "Creative Programming", "Electronics"];
+const availableCategories = Object.keys(groupedByCategory);
+const orderedCategories = [
+	...categoryOrder.filter(cat => availableCategories.includes(cat)),
+	...availableCategories.filter(cat => !categoryOrder.includes(cat)).sort()
+];
 ---
 
 <PageLayout meta={meta}>
@@ -61,14 +68,14 @@ const descYearKeys = Object.keys(groupedByYear).sort((a, b) => +b - +a);
 	<div class="grid sm:grid-cols-[3fr_1fr] sm:gap-x-8 sm:gap-y-16">
 		<div>
 			{
-				descYearKeys.map((yearKey) => (
-					<section aria-labelledby={`year-${yearKey}`}>
-						<h2 id={`year-${yearKey}`} class="title text-lg">
+				orderedCategories.map((categoryKey) => (
+					<section aria-labelledby={`category-${categoryKey}`}>
+						<h2 id={`category-${categoryKey}`} class="title text-lg">
 							<span class="sr-only">Posts in</span>
-							{yearKey}
+							{categoryKey}
 						</h2>
 						<ul class="mt-5 mb-16 space-y-4 text-start">
-							{groupedByYear[yearKey]?.map((p) => (
+							{groupedByCategory[categoryKey]?.map((p: CollectionEntry<"post">) => (
 								<li class="grid gap-2 sm:grid-cols-[auto_1fr] sm:[&_q]:col-start-2">
 									<PostPreview post={p} />
 								</li>

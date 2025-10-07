@@ -2,6 +2,7 @@
 title: "P5.JS [0]: Introduction to creative coding"
 description: "A beginner-friendly introduction to creative coding, covering basic programming concepts and how to start making art with p5.js."
 publishDate: "13 Feb 2025"
+category: "Creative Programming"
 tags: ["creative-coding", "p5.js"]
 coverImage:
   src: "./logo.png"

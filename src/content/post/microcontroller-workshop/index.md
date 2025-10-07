@@ -2,6 +2,7 @@
 title: "Micro Controller Workshop for Beginners"
 description: "Learn to make your own smart devices with Micro Controllers. From using the hardware to the software."
 publishDate: "1 May 2025"
+category: "Electronics"
 tags: ["microcontroller", "arduino", "esp32", "electronics", "sculpture", "automation"]
 coverImage:
   src: "./logo.png"

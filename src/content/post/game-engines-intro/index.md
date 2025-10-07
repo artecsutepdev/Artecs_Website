@@ -2,6 +2,7 @@
 title: "Godot [1]: What Are Game Engines?"
 description: "Exploring game engines, their role in development, and why Godot is a great choice."
 publishDate: "7 Feb 2025"
+category: "Game Development"
 tags: ["project-g", "gamedev", "godot"]
 coverImage:
   src: "./logo.png"
